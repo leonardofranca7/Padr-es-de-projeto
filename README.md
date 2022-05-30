@@ -1,1 +1,4 @@
-# Padr-es-de-Projeto
+# Padroes de projeto
+Utilizando Singleton
+Facade
+Strategy
