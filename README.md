@@ -1,2 +1,0 @@
-# Padr-es-de-projeto
-
